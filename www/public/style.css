@@ -1,0 +1,33 @@
+body {
+  background: black;
+  font-family: "Roboto Slab", serif;
+  color: white;
+  font-size: 22px;
+}
+
+a {
+  color: #faf35c;
+  text-decoration: none;
+}
+
+em {
+  color: #f2a20f;
+}
+
+#container {
+  margin: 50px auto;
+  max-width: 860px;
+  padding: 20px;
+}
+
+img.logo {
+  display: block;
+  margin: auto;
+  max-width: 512px;
+  width: 100%;
+}
+
+h1,
+h2 {
+  font-family: "Anton", cursive;
+}
